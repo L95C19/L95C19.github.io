@@ -13,7 +13,7 @@ html {
 
 body {
     background-image: url("bgXmas.jpg") no-repeat top center;
-    background-size: cover;
+    background-size: contain;
 }
 
 
