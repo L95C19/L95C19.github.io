@@ -8,16 +8,12 @@ html {
     background-color: whitesmoke;
     /* Sets the background colour behind the content */
     overflow: auto;
-    background-image: url("bgXmas.jpg");
 }
 
 body {
-    background-image: url("bgXmas.jpg") no-repeat top center;
-    background-size: contain;
+    background-image: url("bgXmas.jpg");
+    background-size: cover;
 }
-
-
-/* title graphic */
 
 .title {
     display: flex;
@@ -29,9 +25,6 @@ body {
     width: 90%;
     height: auto;
 }
-
-
-/* mobile first grid layout */
 
 .grid-1 {
     display: grid;
@@ -274,9 +267,6 @@ body {
 .day-25 .back {
     background-image: url("Pics/d25.jpg");
 }
-
-
-/* door styles */
 
 .grid-1 input {
     display: none;
