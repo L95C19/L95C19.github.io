@@ -8,11 +8,12 @@ html {
     background-color: whitesmoke;
     /* Sets the background colour behind the content */
     overflow: auto;
+	background-image: url("bgXmas.jpg");
+    background-size: cover;
 }
 
 body {
-    background-image: url("bgXmas.jpg");
-    background-size: cover;
+
 }
 
 .title {
