@@ -8,7 +8,7 @@ html {
     background-color: whitesmoke;
     /* Sets the background colour behind the content */
     overflow: auto;
-	background-image: url("bgXmas.jpg");
+	background-image: url("bgXmas.jpg") no-repeat center center fixed;
     background-size: cover;
 }
 
